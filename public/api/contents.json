@@ -1,0 +1,8 @@
+[
+  { "id": 1, "title": "Resumo de Matemática", "description": "A foto do quadro virou um resumo organizado para revisar antes da prova.", "category": "estudos", "icon": "📐", "date": "Hoje", "favorite": true },
+  { "id": 2, "title": "Encontro com a turma", "description": "Um registro especial de um momento com os amigos.", "category": "social", "icon": "👥", "date": "Ontem", "favorite": false },
+  { "id": 3, "title": "Ideia criativa", "description": "Uma captura pronta para inspirar sua próxima publicação.", "category": "expressao", "icon": "✨", "date": "22 out", "favorite": true },
+  { "id": 4, "title": "Anotações de aula", "description": "Texto extraído de uma fotografia para consultar depois.", "category": "estudos", "icon": "📚", "date": "20 out", "favorite": false },
+  { "id": 5, "title": "Projeto de ciências", "description": "Informações importantes reunidas em um só lugar.", "category": "estudos", "icon": "🧪", "date": "18 out", "favorite": false },
+  { "id": 6, "title": "Meu momento", "description": "Uma memória registrada com o seu próprio estilo.", "category": "expressao", "icon": "📸", "date": "16 out", "favorite": true }
+]
